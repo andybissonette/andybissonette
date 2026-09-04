@@ -1,16 +1,21 @@
-## Hi there 👋
+# Andy Bissonette
 
-<!--
-**andybissonette/andybissonette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Marketing and GTM leader who builds systems that turn strategy into repeatable growth.**
 
-Here are some ideas to get you started:
+I work at the intersection of market insight, positioning, demand generation, revenue operations, analytics, and AI-enabled workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- Go-to-market systems that connect strategy to measurable execution
+- Practical workflows for research, planning, operations, and decision support
+- Clear frameworks that help teams move faster without losing rigor
+
+## What you'll find here
+
+Selected systems, frameworks, and experiments—documented for clarity, reuse, and real-world application.
+
+## Current focus
+
+- Marketing operating systems
+- AI-assisted research and analysis
+- GTM analytics and decision support
